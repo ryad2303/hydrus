@@ -9,6 +9,9 @@ It was tested on
 
 ## Instructions
 
+Add file named LEVEL_01.DIR close the .FOR files
+Add in LEVEL_01.DIR the path of your project
+
 ```bash
 git clone https://github.com/bilke/hydrus.git
 mkdir build
